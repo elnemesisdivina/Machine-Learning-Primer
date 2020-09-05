@@ -32,3 +32,8 @@ import matplotlib.pyplot as plt
 
 #### Enjoy understanding how simple can be the use of mx+b, python, scikit-learn library and dcoker container for this, and sorry for the typos :)
 
+
+
+![screenshot](https://github.com/elnemesisdivina/Machine-Learning-Primer/blob/master/demo%20action.png)
+
+
