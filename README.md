@@ -1,6 +1,6 @@
 # Machine-Learning-Primer
 
-## Work in porgress :) take it as it is!
+## Work in progress :) take it as it is!
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/elnemesisdivina/Machine-Learning-Primer/master?urlpath=Stocks_vRay.ipynb)
